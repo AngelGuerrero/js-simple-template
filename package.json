@@ -1,0 +1,43 @@
+{
+  "name": "portfolio-v2",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelGuerrero/portfolio-v2.git"
+  },
+  "author": "Ángel Guerrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AngelGuerrero/portfolio-v2/issues"
+  },
+  "homepage": "https://github.com/AngelGuerrero/portfolio-v2#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "browser-sync": "^2.26.7",
+    "eslint": "^7.4.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-prettier": "^3.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-terser": "^1.2.0",
+    "prettier": "2.0.5",
+    "sass-lint": "^1.13.1",
+    "webpack-stream": "^5.2.1"
+  }
+}
